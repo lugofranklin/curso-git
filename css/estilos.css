@@ -1,5 +1,21 @@
 body{
-    text-align: left;
-    color: blue;
+    font-family: Arial;
+    text-align: center;
+    color: black;
     background: burlywood;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 40px;
 }
