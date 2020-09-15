@@ -1,5 +1,5 @@
 body{
-    font-family: Arial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: black;
     background: burlywood;
@@ -10,7 +10,7 @@ body{
 
 #container{
     width: 70%;
-    padding: 0 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
@@ -27,7 +27,7 @@ h1{
     font-weight: bold;
     margin: 0;
     padding: 1em;
-    width: 100%;
+    
 }
 
 #cabecera #tagline{
